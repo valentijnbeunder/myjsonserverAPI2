@@ -1,0 +1,58 @@
+{
+  "inspections": [
+    {
+      "type": "Damage recording",
+      "details": {
+        "location": "",
+        "newDamage": null,
+        "damageType": "",
+        "date": "",
+        "urgentActionRequired": null,
+        "description": ""
+      }
+    },
+    {
+      "type": "Record deferred maintenance",
+      "details": {
+        "location": "",
+        "maintenanceType": "",
+        "urgentActionRequired": null,
+        "costEstimate": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Inspect technical installations",
+      "details": {
+        "location": "",
+        "installationType": "",
+        "reportedIssues": "",
+        "testProcedure": "",
+        "approved": null,
+        "remarks": ""
+      }
+    },
+    {
+      "type": "Inventory modifications",
+      "details": {
+        "currentSituation": "",
+        "modificationLocation": "",
+        "performedBy": "",
+        "modificationDescription": "",
+        "actionToTake": "",
+        "remarks": ""
+      }
+    },
+    {
+      "type": "Damage recording",
+      "details": {
+        "location": "",
+        "newDamage": null,
+        "damageType": "",
+        "date": "",
+        "urgentActionRequired": null,
+        "description": ""
+      }
+    }
+  ]
+}
